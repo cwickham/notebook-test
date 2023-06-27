@@ -1,0 +1,13 @@
+project:
+  type: manuscript
+
+manuscript:
+  notebooks:
+    - notebook: notebook.qmd
+      title: "NOTEBOOK 1"
+    - notebook: some-other.ipynb
+      title: "NOTEBOOK 2"
+      url: google.com
+
+
+
